@@ -1,6 +1,5 @@
 import time
 
-
 def bisection(x):
 	tic = time.clock()
 	#x = float(raw_input("Enter a number\n"))
