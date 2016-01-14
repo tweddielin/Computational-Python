@@ -20,3 +20,5 @@ while True:
     print 'numGuess = ', numGuess
     print ans, 'is close to square root of ', x
     print 'cost time ', toc - tic , 's\n'
+
+
